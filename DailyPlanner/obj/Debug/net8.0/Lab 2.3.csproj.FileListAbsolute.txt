@@ -1,0 +1,19 @@
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\bin\Debug\net8.0\Lab 2.3.exe
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\bin\Debug\net8.0\Lab 2.3.deps.json
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\bin\Debug\net8.0\Lab 2.3.runtimeconfig.json
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\bin\Debug\net8.0\Lab 2.3.dll
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\bin\Debug\net8.0\Lab 2.3.pdb
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\bin\Debug\net8.0\Npgsql.dll
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\obj\Debug\net8.0\Lab 2.3.csproj.AssemblyReference.cache
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\obj\Debug\net8.0\Lab 2.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\obj\Debug\net8.0\Lab 2.3.AssemblyInfoInputs.cache
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\obj\Debug\net8.0\Lab 2.3.AssemblyInfo.cs
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\obj\Debug\net8.0\Lab 2.3.csproj.CoreCompileInputs.cache
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\obj\Debug\net8.0\Lab 2.3.csproj.Up2Date
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\obj\Debug\net8.0\Lab 2.3.dll
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\obj\Debug\net8.0\refint\Lab 2.3.dll
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\obj\Debug\net8.0\Lab 2.3.pdb
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\obj\Debug\net8.0\Lab 2.3.genruntimeconfig.cache
+D:\Rider\JetBrains Solutions\Tasks\Lab 2.3\obj\Debug\net8.0\ref\Lab 2.3.dll
